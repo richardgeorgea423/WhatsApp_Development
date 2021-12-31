@@ -7,4 +7,8 @@ Whats App Development
 
 3. hiding last seen
 
+4. Video Feature
+
+5. Audio Feature
+
 Lets ENjoy Whats app.
