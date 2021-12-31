@@ -5,5 +5,6 @@ Whats App Development
 
 2. last seen
 
+3. hiding last seen
 
 Lets ENjoy Whats app.
